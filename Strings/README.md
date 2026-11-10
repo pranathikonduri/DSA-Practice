@@ -1,3 +1,11 @@
 
+This folder contains my Data Structures and Algorithms practice problems related to Strings.
 
-My JavaScript solutions for String problems.
+Language: JavaScript
+
+Topics covered:
+- String reversal
+- Palindrome checking
+- Character frequency
+- Anagrams
+- Substrings
